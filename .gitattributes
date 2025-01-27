@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+commandline-tools.* filter=lfs diff=lfs merge=lfs -text
